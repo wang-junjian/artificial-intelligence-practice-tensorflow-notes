@@ -6,7 +6,7 @@
     * 3.2 [前向传播](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/3.2_forward_propagation.ipynb)
     * 3.3 [反向传播](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/3.3_backward_propagation.ipynb)
 
-    * 降低日志等级
+**降低日志等级**
 ``` bash
 nano ~/.bash_profile
 export TF_CPP_MIN_LOG_LEVEL=2
