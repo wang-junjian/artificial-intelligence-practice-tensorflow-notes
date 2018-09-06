@@ -9,6 +9,8 @@
     * 4.1 [损失函数](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/4.1_loss_function.ipynb)
 * 第五讲 全连接网络基础
 
+* [FAQ](faq/)
+
 **降低日志等级**
 ``` bash
 nano ~/.bash_profile
