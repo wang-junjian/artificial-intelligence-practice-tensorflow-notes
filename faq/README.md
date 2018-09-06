@@ -1,7 +1,7 @@
 # Tensorflow FAQ
 
 * 1 [没有声明为变量(tf.Variable)，导致的错误。](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/faq/faq001.ipynb)
-```py
+```
 ---------------------------------------------------------------------------
 ValueError                                Traceback (most recent call last)
 <ipython-input-9-2a9e1f27ff10> in <module>()
