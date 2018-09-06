@@ -1,6 +1,6 @@
 # Tensorflow FAQ
 
-* 1 [没有声明为变量(tf.Variable)，导致的错误。](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/faq/faq001.ipynb)
+1. [没有声明为变量(tf.Variable)，导致的错误。](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/faq/faq001.ipynb)
 ```
 ---------------------------------------------------------------------------
 ValueError                                Traceback (most recent call last)
