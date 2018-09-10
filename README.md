@@ -7,6 +7,7 @@
     * 3.3 [反向传播](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/3.3_backward_propagation.ipynb) (源码：[tf3_6](source_code/tf3_6.py))
 * 第四讲 神经网络优化
     * 4.1 [损失函数](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/4.1_loss_function.ipynb) (源码：[opt4_1](source_code/opt4_1.py) [opt4_2](source_code/opt4_2.py) [opt4_3](source_code/opt4_3.py))
+    * 4.2 [学习率](http://nbviewer.jupyter.org/github/wang-junjian/artificial-intelligence-practice-tensorflow-notes/blob/master/4.2_learning_rate.ipynb) (源码：[opt4_4](source_code/opt4_4.py) [opt4_5](source_code/opt4_5.py) [opt4_6](source_code/opt4_6.py))
 * 第五讲 全连接网络基础
 
 * [FAQ](faq/)
